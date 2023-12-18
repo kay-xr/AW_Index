@@ -1,0 +1,39 @@
+---
+title: ANGELWARE INDEX
+description: Knowledge index and notes by ANGELWARE.
+template: splash
+hero:
+  title: |
+    ANGELWARE
+    </span>
+  tagline: Knowledge Index
+  image:
+    file: ../../assets/acid-card.webp
+  actions:
+    - text: Open Index
+      link: /guides/2022/
+      icon: right-arrow
+      variant: primary
+    - text: Visit the ANGELWARE homepage.
+      link: https://angelware.net
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Latest Docs
+
+<CardGrid stagger>
+	<Card title="Update to 2022" icon="pencil" >
+		[A quick guide on updating your VRCSDK project without issues.](/guides/2022)
+	</Card>
+	{/*<Card title="Add new content" icon="add-document">
+		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	</Card>
+	<Card title="Configure your site" icon="setting">
+		Edit your `sidebar` and other config in `astro.config.mjs`.
+	</Card>
+	<Card title="Read the docs" icon="open-book">
+		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	</Card>*/}
+</CardGrid>
