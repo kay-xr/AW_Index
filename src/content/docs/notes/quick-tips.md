@@ -3,7 +3,6 @@ title: Quick Tips!
 description: Quick notes on useful tools for avatar & world development.
 ---
 
-# Quick Tips
 Below you will find a collection of random tips and tricks I have come across over time. Use the sidebar on the right to navigate.
 
 ---
