@@ -26,10 +26,10 @@ export default defineConfig({
 						{ label: 'Upgrading your project to Unity 2022 without issues.', link: '/guides/2022/' },
 					],
 				},
-				// {
-				// 	// label: 'Reference',
-				// 	// autogenerate: { directory: 'reference' },
-				// },
+				{
+					label: 'Notes',
+					autogenerate: { directory: 'notes' },
+				},
 			],
 			customCss: ['./src/tailwind.css'],
 		}),
