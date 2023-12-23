@@ -21,10 +21,7 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Upgrading your project to Unity 2022 without issues.', link: '/guides/2022/' },
-					],
+					autogenerate: { directory: 'guides' },
 				},
 				{
 					label: 'Notes',
