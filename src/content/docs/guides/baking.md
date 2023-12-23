@@ -3,6 +3,8 @@ title: High to Low Baking for Body Optimization
 description: A ten-minute guide going over a quick high-to-low bake of a body mesh!
 ---
 
+> ⛔ While this page does not contain any sexually-explicit material, it does contain images of body meshes, which may be considered "NSFW" by some.
+
 High-to-Low baking is the process of baking high poly mesh details into a normal map, which can then be used to replicate the same detail on a lower-poly model. We use this extensively in game development, to lower the amount of "gpu power" needed to render a model's polygons, where VRAM is available.
 
 This may seem counter-intuitive when creating models for a game that already has seemingly high memory usage, but chances are most people are going to be using normal maps for other details anyways, so baking your map to a lower base is a fair tradeoff.
