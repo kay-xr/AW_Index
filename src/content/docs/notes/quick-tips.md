@@ -16,3 +16,15 @@ Using this, you can quickly launch the VRChat client in offline mode, without wa
 ![img_1.png](../../../assets/notes/quick-tips/img_1.png)
 
 You can fill out fields like the `World ID`, `User ID`, etc, for specifying online options, or use `Local` mode to launch the client directly into a locally built world.
+
+### Wrap-up
+
+If this helped you, consider [tossing me a Kofi](https://ko-fi.com/angelware)
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
+
+[Or check out my assets!](https://angelware.net/)
+
+Make sure to share this with friends to help share the knowledge!
+
+If I have made any mistakes, please make an issue on my [index's Github repo](https://github.com/uhKayla/AW_Index)
