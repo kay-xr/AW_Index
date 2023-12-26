@@ -2,6 +2,11 @@
 title: Post-Processing for Avatar Visualization
 description: A quick setup for visualizing and testing Post-Processing in Avatar Projects.
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
+
+[Or check out my assets!](https://angelware.net/)
+
+--- 
 
 Requirements:
 Unity 2019 or 2022.

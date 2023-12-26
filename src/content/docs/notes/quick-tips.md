@@ -2,6 +2,11 @@
 title: Quick Tips!
 description: Quick notes on useful tools for avatar & world development.
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
+
+[Or check out my assets!](https://angelware.net/)
+
+--- 
 
 Below you will find a collection of random tips and tricks I have come across over time. Use the sidebar on the right to navigate.
 

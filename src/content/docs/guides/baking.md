@@ -2,6 +2,11 @@
 title: High to Low Baking for Body Optimization
 description: A ten-minute guide going over a quick high-to-low bake of a body mesh!
 ---
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
+
+[Or check out my assets!](https://angelware.net/)
+
+--- 
 
 > ⛔ While this page does not contain any sexually-explicit material, it does contain images of body meshes, which may be considered "NSFW" by some.
 
