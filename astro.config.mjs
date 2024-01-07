@@ -27,6 +27,10 @@ export default defineConfig({
 					label: 'Notes',
 					autogenerate: { directory: 'notes' },
 				},
+				{
+					label: 'Worlds',
+					autogenerate: { directory: 'worlds' },
+				}
 			],
 			customCss: ['./src/tailwind.css'],
 		}),
