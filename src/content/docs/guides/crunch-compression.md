@@ -1,5 +1,5 @@
 ---
-title: Crunch Compression and You
+title: Crunch Compression
 description: A small guide to the wonderful world of disk compression.
 ---
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
