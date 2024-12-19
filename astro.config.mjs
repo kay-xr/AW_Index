@@ -14,7 +14,7 @@ export default defineConfig({
 				replacesTitle: true,
 			},
 			social: {
-				github: 'https://github.com/uhkayla',
+				github: 'https://github.com/kay-xr',
 				twitter: 'https://twitter.com/angeIware',
 				discord: 'https://discord.angelware.net/'
 			},

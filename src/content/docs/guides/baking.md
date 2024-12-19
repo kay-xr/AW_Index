@@ -156,4 +156,4 @@ Also, consider [tossing me a Kofi](https://ko-fi.com/angelware)
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#272727', 'J3J0HS3SU');kofiwidget2.draw();</script> 
 
-If I have made any mistakes, please make an issue on my [index's Github repo](https://github.com/uhKayla/AW_Index)
+If I have made any mistakes, please make an issue on my [index's Github repo](https://github.com/kay-xr/AW_Index)

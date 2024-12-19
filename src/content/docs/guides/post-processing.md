@@ -153,5 +153,5 @@ If this helped you, consider [tossing me a Kofi](https://ko-fi.com/angelware)
 
 Make sure to share this with friends to help share the knowledge!
 
-If I have made any mistakes, please make an issue on my [index's Github repo](https://github.com/uhKayla/AW_Index)
+If I have made any mistakes, please make an issue on my [index's Github repo](https://github.com/kay-xr/AW_Index)
 
